@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/image"
+        android:scaleType="centerCrop"
+        android:src="@drawable/small_default"
+        android:background="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <ImageView
+        android:id="@+id/play_btn"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#55333333"
+        android:padding="13dp"
+        android:src="@drawable/center_play"
+        android:visibility="gone"/>
+
+    <ImageView
+        android:id="@+id/checkmark"
+        android:layout_gravity="top|right"
+        android:padding="5.5dp"
+        android:layout_width="31dp"
+        android:layout_height="31dp"
+        android:src="@drawable/photo_no"/>
+
+</FrameLayout>

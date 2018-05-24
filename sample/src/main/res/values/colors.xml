@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources >
+    <color name="colorPrimary" >#3F51B5</color >
+    <color name="colorPrimaryDark" >#303F9F</color >
+    <color name="colorAccent" >#FF4081</color >
+    
+    <!-- 一号色 -->
+    <color name="version_color_one_black">#333333</color>
+    <!-- 二号色 -->
+    <color name="version_color_two">#666666</color>
+    <!-- 三号色 -->
+    <color name="version_color_three">#b8b8b8</color>
+    <!-- 四号色 -->
+    <color name="version_color_four">#d2d2d2</color>
+    <!-- 五号色 -->
+    <color name="version_color_five">#f1f1f1</color>
+    <!-- 六号色 -->
+    <color name="version_color_six_white">#ffffff</color>
+    <!-- 七号色 -->
+    <color name="version_color_seven">#dbdbdb</color>
+    <!-- 八号色 -->
+    <color name="version_color_eight">#888888</color>
+    
+    <color name="back_color_one">#f7f7f7</color>
+    <color name="btn_title_black">#242425</color>
+    <color name="back_grey_line">#afafaf</color>
+    <color name="black_trans96">#f4272424</color>
+    <color name="text_add_btn_title">#64c5ff</color>
+    <color name="bg_sub_btn_blue">#f14b7cff</color>
+    <color name="text_add_btn_back">#4354ff</color>
+    <color name="text_add_btn_back_press">#3548ff</color>
+    <color name="transparent30">#90363636</color>
+    <color name="black">#000000</color>
+    <color name="tips_title_line">#6482ff</color>
+</resources >

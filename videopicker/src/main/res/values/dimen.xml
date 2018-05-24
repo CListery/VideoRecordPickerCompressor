@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources >
+    
+
+    <dimen name="phoenix_dimen_5">5dp</dimen>
+    <dimen name="phoenix_dimen_6">6dp</dimen>
+    <dimen name="phoenix_dimen_8">8dp</dimen>
+</resources >
